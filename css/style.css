@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    font-size: 1.6vh;
+    font-size: 12px;
 }
 
 body {
@@ -66,10 +66,14 @@ body {
 
 /* contenedor around content */
 .contenedor {
-    padding: 10px 40px;
+    padding: 10px 51px;
     position: relative;
     background-color: inherit;
     width: 50%;
+}
+.contenedor img{
+    width: auto;
+    height: 200px;
 }
 
 /* The circles on the timeline */
