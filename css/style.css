@@ -1,6 +1,6 @@
 * {
     box-sizing: border-box;
-    font-size: 12px;
+    font-size: 13px;
 }
 
 body {
@@ -10,7 +10,7 @@ body {
 
 .container-fluid{
     display: flex;
-    height: 16vh;
+    height: 18vh;
     background: #2750b1;
     justify-content: center;
     align-items: center;
