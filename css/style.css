@@ -26,7 +26,12 @@ body {
  .datos{
     flex: 1 1 50%;
  }
-
+.imagenes{
+     text-align: center;
+}
+.imagenes img{
+     margin-bottom: 1rem;
+}
 
 .container-fluid img{
 
